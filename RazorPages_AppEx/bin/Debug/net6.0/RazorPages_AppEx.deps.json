@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RazorPages_AppEx/1.0.0": {
+        "runtime": {
+          "RazorPages_AppEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RazorPages_AppEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
